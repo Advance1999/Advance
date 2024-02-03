@@ -1,0 +1,12 @@
+.Roundheader{
+    position: absolute;
+    background: #00000080;
+    display: inline-flex;
+    width: 95%;
+    height: 50px;
+    overflow: hidden;
+    top: 0;
+    border-radius: 50px;
+    margin-top: 0.2rem;
+    left: 2%;
+}

@@ -1,0 +1,25 @@
+@import url('/CONNECTION/Connection.css');
+
+*{
+    color: white;
+}
+
+#MenuIcon{
+    margin-left: 1rem;
+    width: 20px;
+    height: 20px;
+}
+
+#HomeDiv{
+    top: 50px;
+    
+}
+
+#Data{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+body{
+    background:blue;
+}

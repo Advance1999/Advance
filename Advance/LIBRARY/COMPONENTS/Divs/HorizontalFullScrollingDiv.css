@@ -1,0 +1,11 @@
+.HorizonalFullScrollingDiv{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background: #00000080;
+    display: block;
+    overflow-x: auto;
+    overflow-y: hidden;
+    top: 0;
+    bottom: 0;
+}
